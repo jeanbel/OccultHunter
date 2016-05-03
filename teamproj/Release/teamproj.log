@@ -1,0 +1,17 @@
+﻿  teamproj.cpp
+teamproj.cpp(613): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(617): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(621): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(625): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(658): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(663): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(669): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+teamproj.cpp(692): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(696): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+teamproj.cpp(726): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  1 of 8 functions (12.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  teamproj.vcxproj -> C:\Users\Brandon\documents\visual studio 2015\Projects\teamproj\Release\teamproj.exe
